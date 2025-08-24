@@ -1,0 +1,7 @@
+Executa Backend: 
+cd chatbot-backend
+py api_chat.py
+
+Executa Frontend: 
+cd chatbot-frontend
+npm run dev
